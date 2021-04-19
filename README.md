@@ -1,4 +1,4 @@
-# home-starbucks
+# Home Starbucks
 >Home da Starbucks criado com HTML/CSS 
 
 <div>
