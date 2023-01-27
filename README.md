@@ -1,5 +1,5 @@
 # Home Starbucks
->Home da Starbucks criado com HTML/CSS 
+>Starbucks homepage created with HTML/CSS
 
 [View Demo](https://lucasalvaresa.github.io/home-starbucks/)
 
